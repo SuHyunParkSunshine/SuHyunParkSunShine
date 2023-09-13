@@ -22,4 +22,4 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuHyunParkSunshine&layout=donut-vertical)](https://github.com/SuHyunParkSunshine/github-readme-stats)
 ![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHyunParkSunshine&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SuHyunParkSunshine)](https://solved.ac/SuHyunParkSunshine)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhyun5701)](https://solved.ac/suhyun5701)
